@@ -1,0 +1,90 @@
+{
+  "shop_name": "Rizwan Fashion Store",
+  "categories": ["T-shirt", "Pant"],
+  "products": [
+    {
+      "id": "TSHIRT001",
+      "name": "Premium Cotton Round Neck T-shirt",
+      "category": "T-shirt",
+      "price": 450,
+      "material": "100% Cotton",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black", "White", "Navy Blue"],
+      "features": [
+        "Soft breathable fabric",
+        "Sweat absorbent",
+        "Daily wear comfortable"
+      ],
+      "use_case": "Casual wear, summer outfit",
+      "target_customer": "Youth and office users"
+    },
+    {
+      "id": "TSHIRT002",
+      "name": "Oversized Streetwear T-shirt",
+      "category": "T-shirt",
+      "price": 650,
+      "material": "Cotton Blend",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["Black", "Grey", "Beige"],
+      "features": [
+        "Trendy oversized fit",
+        "Street fashion style",
+        "Durable stitching"
+      ],
+      "use_case": "Fashion wear, outing, party",
+      "target_customer": "Teenagers and fashion lovers"
+    },
+    {
+      "id": "PANT001",
+      "name": "Slim Fit Denim Jeans",
+      "category": "Pant",
+      "price": 1200,
+      "material": "Denim Cotton",
+      "sizes": ["30", "32", "34", "36"],
+      "colors": ["Dark Blue", "Black"],
+      "features": [
+        "Stretchable comfort",
+        "Modern slim fit design",
+        "Long lasting fabric"
+      ],
+      "use_case": "Office, casual outing",
+      "target_customer": "Men (young to mid-age)"
+    },
+    {
+      "id": "PANT002",
+      "name": "Jogger Cargo Pant",
+      "category": "Pant",
+      "price": 900,
+      "material": "Cotton Twill",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["Army Green", "Black", "Khaki"],
+      "features": [
+        "Multiple pockets",
+        "Comfortable loose fit",
+        "Trendy street style"
+      ],
+      "use_case": "Travel, casual wear",
+      "target_customer": "Students and travelers"
+    }
+  ],
+  "faq": [
+    {
+      "question": "T-shirt এর কাপড় কেমন?",
+      "answer": "আমাদের T-shirt গুলো 100% cotton এবং breathable, গরমে খুব আরামদায়ক।"
+    },
+    {
+      "question": "Pant এর size কিভাবে বুঝবো?",
+      "answer": "আপনি waist size (ইঞ্চি) অনুযায়ী নির্বাচন করবেন যেমন 30, 32, 34।"
+    },
+    {
+      "question": "ডেলিভারি কত দিনে হবে?",
+      "answer": "ঢাকার ভিতরে 1-2 দিন, ঢাকার বাইরে 2-4 দিন সময় লাগে।"
+    }
+  ],
+  "sales_rules": [
+    "Customer কে আগে product benefit বুঝাবে",
+    "Price বলার আগে value explain করবে",
+    "Customer confused হলে size/fit guide দিবে",
+    "Always polite and friendly tone ব্যবহার করবে"
+  ]
+}
