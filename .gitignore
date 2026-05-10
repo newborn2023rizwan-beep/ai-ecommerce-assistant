@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+venv/
+.env
+data/chroma_db/
+.streamlit/secrets.toml
+*.log
+test_debug.py
+test2.py
+gitignore
